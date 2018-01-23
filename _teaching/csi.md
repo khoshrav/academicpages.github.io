@@ -1,5 +1,5 @@
 ---
-title: "Speaker"
+title: "Instructor"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/introduction-to-linux
@@ -9,5 +9,5 @@ location: "Mumbai, India"
 ---
 
 ### Introduction to Linux
-=====
+
 Created and delivered a workshop to introduce newly enrolled undergratuade students to Linux based systems.

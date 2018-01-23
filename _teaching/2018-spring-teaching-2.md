@@ -8,7 +8,6 @@ date: 2017-09-07
 location: "Amhsert, U.S.A"
 ---
 
-[COMPSCI 240: Reasoning Under Uncertainty](https://people.cs.umass.edu/~lpineda/classes/240/)
+### [COMPSCI 240: Reasoning Under Uncertainty](https://people.cs.umass.edu/~lpineda/classes/240/)
 Office Hours
-=====
 Thursday: 2:30 p.m. to 3:30 p.m. LGRT 220

@@ -1,5 +1,5 @@
 ---
-title: "Speaker"
+title: "Instructor"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/introduction-to-android
@@ -9,5 +9,5 @@ location: "Mumbai, India"
 ---
 
 ### Android Programming
-=====
+
 Conducted a workshop that covering introductory skills required to create an Android Application.

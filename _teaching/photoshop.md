@@ -1,5 +1,5 @@
 ---
-title: "Speaker"
+title: "Instructor"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/introduction-to-photoshop
@@ -9,5 +9,5 @@ location: "Mumbai, India"
 ---
 
 ### Introduction to Photoshop
-=====
+
 Created content and conducted a one day workshop to familiarize students with basic tools of Adobe Photoshop
