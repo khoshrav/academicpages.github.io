@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "A Unified Multi-Faceted Video Summarization System"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/video-summarization
+excerpt: 'This paper addresses automatic summarization and search in visual data comprising of videos, live streams and image collections in a unified manner. In particular, we propose a framework for multi-faceted summarization which extracts keyframes (image summaries), skims (video summaries) and entity summaries (summarization at the level of entities like objects, scenes, humans and faces in the video).'
+date: 2017-04-4
+venue: 
+paperurl: 'http://khoshrav.github.io/files/video-summarization.pdf'
+citation: 'Sahoo, A., Kaushal, V., Doctor, K., et al.\ 2017, arXiv:1704.01466 '
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper addresses automatic summarization and search in visual data comprising of videos, live streams and image collections in a unified manner. In particular, we propose a framework for multi-faceted summarization which extracts keyframes (image summaries), skims (video summaries) and entity summaries (summarization at the level of entities like objects, scenes, humans and faces in the video).
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://khoshrav.github.io/files/video-summarization.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Sahoo, A., Kaushal, V., Doctor, K., et al.\ 2017, arXiv:1704.01466 " <i>Journal 1</i>. 1(3).
