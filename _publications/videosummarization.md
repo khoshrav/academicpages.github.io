@@ -12,4 +12,4 @@ This paper addresses automatic summarization and search in visual data comprisin
 
 [Download paper here](http://khoshrav.github.io/files/video-summarization.pdf)
 
-Recommended citation: Sahoo, A., Kaushal, V., Doctor, K., et al.\ 2017, arXiv:1704.01466 " <i>Journal 1</i>. 1(3).
+Recommended citation: Sahoo, A., Kaushal, V., Doctor, K., et al.\ 2017, arXiv:1704.01466
