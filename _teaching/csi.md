@@ -10,4 +10,4 @@ location: "Mumbai, India"
 
 ### Introduction to Linux
 
-Created and delivered a workshop to introduce newly enrolled undergratuade students to Linux based systems.
+Designed and delivered a workshop to introduce newly enrolled undergratuade students to Linux based systems.
